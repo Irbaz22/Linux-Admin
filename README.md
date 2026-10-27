@@ -15,3 +15,4 @@ Self-study labs and projects. Hands-on Rocky Linux in a VMware Workstation virtu
 ## Environment
 - OS: Rocky Linux
 - Platform: VMware Workstation Pro
+- Course: CloudTHAT and Online
