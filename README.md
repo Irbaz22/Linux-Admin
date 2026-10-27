@@ -1,3 +1,4 @@
+
 # Linux – File System & Navigation
 
 Hands-on practice Linux - File System & Navigation,
@@ -18,18 +19,7 @@ before web server software installation — a common real-world sysadmin task.
 
 ### Directory Structure Built
 
-/srv/webroot/
-├── public/
-│ ├── html/ # index.html, about.html, contact.html
-│ ├── css/ # main.css, mobile.css
-│ ├── js/
-│ └── images/
-├── logs/
-│ ├── access/ # access_2026-10.log
-│ └── error/ # error_2026-10.log
-├── backup/ # main.css, html_snapshot/, site.conf.bak
-└── config/ # site.conf, db.conf
-
+<img width="574" height="709" alt="Screenshot 2026-10-28 042242" src="https://github.com/user-attachments/assets/ce4fcf4a-7c2f-48de-957f-b988d601d3dc" />
 
 ### Key Tasks Completed
 - Created full directory tree using mkdir -p in a single command chain
@@ -38,6 +28,8 @@ before web server software installation — a common real-world sysadmin task.
 - Created hard link: backup/site.conf.bak → config/site.conf
   (verified matching inodes using ls -li)
 - Verified complete structure using find /srv/webroot -type f and -type l
+
+<img width="831" height="516" alt="linux m3 project" src="https://github.com/user-attachments/assets/c0609025-696b-453e-be19-8dc505342e7e" />
 
 ## Environment
 - OS: Rocky Linux
