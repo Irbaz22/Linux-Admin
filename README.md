@@ -1,7 +1,6 @@
 # Linux Administration — Hands-On Projects
 
-Self-study labs and projects.
-Practised on Rocky Linux in a VMware Workstation virtual machine.
+Self-study labs and projects. Hands-on Rocky Linux in a VMware Workstation virtual machine.
 
 ## Modules
 
