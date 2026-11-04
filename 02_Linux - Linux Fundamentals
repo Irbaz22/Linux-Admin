@@ -1,4 +1,6 @@
-A collection of small, practical projects I completed while building core cloud operations skills. Each project has its own folder with the steps I ran, what I verified, and what I learned. Linux projects were done on Red Hat Enterprise Linux (RHEL).
+A collection of small, practical projects I completed while building core cloud operations skills. 
+Each project has its own folder with the steps I ran, what I verified, and what I learned.
+Linux projects were done on Red Hat Enterprise Linux (RHEL).
 
 Each project folder contains a README with the commands used, results, and key takeaways.
 
